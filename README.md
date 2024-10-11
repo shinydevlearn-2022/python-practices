@@ -27,4 +27,11 @@ execute the command , then we will get o/p as:
 
 Hello, world!
 
+       or
+
+"""Multiline comments
+with triple quotes
+"""
+print("Hello, world!")
+
 
