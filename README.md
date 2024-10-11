@@ -45,10 +45,15 @@ print("Hello, world!")
 Variables are used for storing data values.
 
 Create variables.py file 
+
 Example:
+
 x = 10
+
 y = 50
+
 print(x)
+
 pringt(y)
 
 Execute the variables.py file as:
