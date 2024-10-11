@@ -9,6 +9,6 @@ Example:
 
 print("Hello, World!")
 
-Execute as 
+Execute as /n
 
 python hello.py  #where hello.py is the file name.
