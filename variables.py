@@ -23,3 +23,9 @@ def myfunc():
     print("Pyhton is not as easy as expected " + x)
 myfunc()
 print("python is " + x)
+def myfunc():
+    global x
+    x = "Global variable inside the function"
+myfunc()
+    
+print("Using global variable inside the function " + x)
