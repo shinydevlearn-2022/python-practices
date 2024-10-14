@@ -1,5 +1,7 @@
+# Heading 1
 Python-Learning form scratch
 
+# Heading 2 
 Install python form the official site,
 (https://www.python.org/)
 
@@ -13,10 +15,13 @@ Execute as
 
 python hello.py  #where hello.py is the file name.
 
+(Refer above code hello.py and calculator.py in the master branch)
+------------------------------------------------------------------
+
 Python uses indentation to indicate a block of code.
 
 
-
+# Heading 3
 Comments starts with a # and can be ignored.
 
 Example:
@@ -39,4 +44,27 @@ with triple quotes
 
 print("Hello, world!")
 
+(Refer from the above code comments.py in master branch) 
+--------------------------------------------------------
 
+# Heading 4
+Variables are used for storing data values.
+
+Create variables.py file 
+
+Example:
+
+x = 10
+
+y = 50
+
+print(x)
+
+pringt(y)
+
+Execute the variables.py file as:
+
+python variables.py
+
+(Refer from the above code variables.py in master branch)
+---------------------------------------------------------
