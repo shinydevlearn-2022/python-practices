@@ -14,6 +14,12 @@ a = "Doremon"
 b = "Shinchan"
 c = "Bangtan"
 
-print(a,b,c, '\n')
+print(a,b,c, sep='\n')
 
+x = "amazing"
 
+def myfunc():
+    x = "its A bit difficult"
+    print("Pyhton is not as easy as expected " + x)
+myfunc()
+print("python is " + x)
