@@ -97,3 +97,4 @@ Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 
 (Refer form the above code datatypes.py in master branch)
+----------------------------------------------------------
