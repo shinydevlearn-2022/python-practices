@@ -25,6 +25,7 @@ Python uses indentation to indicate a block of code.
 
 # Heading 3
 ************
+
 Comments starts with a # and can be ignored.
 
 Example:
@@ -52,6 +53,7 @@ print("Hello, world!")
 
 # Heading 4
 ************
+
 Variables are used for storing data values.
 
 Create variables.py file 
@@ -79,12 +81,19 @@ python variables.py
 Python has the following data types built-in by default, in these categories:
 
 Text Type:	str
+
 Numeric Types:	int, float, complex
+
 Sequence Types:	list, tuple, range
+
 Mapping Type:	dict
+
 Set Types:	set, frozenset
+
 Boolean Type:	bool
+
 Binary Types:	bytes, bytearray, memoryview
+
 None Type:	NoneType
 
 (Refer form the above code datatypes.py in master branch)
