@@ -98,3 +98,38 @@ None Type:	NoneType
 
 (Refer form the above code datatypes.py in master branch)
 ----------------------------------------------------------
+
+# Heading 6
+*************
+
+Pyhton had 3 numeric types:
+
+Int
+
+Float
+
+Complex
+
+Examples:
+
+x = 10    # init
+
+y = 60.30   # float  (Float can also be scientific numbers with an "e" to indicate the power of 10)
+
+a = 3e1
+
+b = -45.24
+
+Complex numbers are written with a "j" as the imaginary part:
+z = 3j+90
+
+z = 89j    # complex
+
+# Converting of int, float, complex
+
+You can convert from one type to another with the int(), float(), and complex() methods
+
+(Refer from the bove code numbers.py in the master branch)
+-------------------------------------------------------------
+
+
